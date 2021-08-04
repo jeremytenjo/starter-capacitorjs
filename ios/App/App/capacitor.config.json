@@ -1,0 +1,10 @@
+{
+	"appId": "app.capacitorstarter.app",
+	"appName": "starter-capacitorjs",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://10.0.0.29:3001",
+		"cleartext": true
+	}
+}

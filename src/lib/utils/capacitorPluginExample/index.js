@@ -1,4 +1,5 @@
 // https://capacitorjs.com/docs/android/custom-code
+// https://capacitorjs.com/docs/ios/custom-code
 import { WebPlugin, registerPlugin } from '@capacitor/core'
 
 class CapacitorPluginExample extends WebPlugin {

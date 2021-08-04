@@ -33,7 +33,7 @@
     "@capacitor/cli": "^3.1.2",
     "@capacitor/core": "^3.1.2",
     "@capacitor/geolocation": "^0.4.0",
-    "@capacitor/ios": "^3.0.0",
+    "@capacitor/ios": "^3.1.2",
     "@capacitor/status-bar": "^0.4.3",
     "@capacitor/toast": "^0.4.3",
     "@check-light-or-dark/color": "^1.0.3",
