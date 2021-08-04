@@ -1,5 +1,5 @@
 {
-	"appId": "app.footycity.app",
+	"appId": "app.capacitorstarter.app",
 	"appName": "starter-capacitorjs",
 	"webDir": "build",
 	"bundledWebRuntime": false,

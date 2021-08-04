@@ -2,7 +2,7 @@ const appConfig = require('./app.config')
 
 // https://capacitorjs.com/docs/config
 module.exports = {
-  appId: 'app.footycity.app',
+  appId: 'app.capacitorstarter.app',
   appName: 'starter-capacitorjs',
   webDir: 'build',
   bundledWebRuntime: false,

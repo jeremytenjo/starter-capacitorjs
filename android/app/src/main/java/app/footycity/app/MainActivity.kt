@@ -1,7 +1,7 @@
-package app.footycity.app
+package app.capacitorstarter.app
 
 import android.os.Bundle
-import app.footycity.app.plugins.CapacitorPluginExample
+import app.capacitorstarter.app.plugins.CapacitorPluginExample
 import com.getcapacitor.BridgeActivity
 
 class MainActivity : BridgeActivity() {

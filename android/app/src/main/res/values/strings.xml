@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">starter-capacitorjs</string>
     <string name="title_activity_main">starter-capacitorjs</string>
-    <string name="package_name">app.footycity.app</string>
-    <string name="custom_url_scheme">app.footycity.app</string>
+    <string name="package_name">app.capacitorstarter.app</string>
+    <string name="custom_url_scheme">app.capacitorstarter.app</string>
 </resources>

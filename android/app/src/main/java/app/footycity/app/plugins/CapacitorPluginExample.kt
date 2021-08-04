@@ -1,5 +1,5 @@
 
-package app.footycity.app.plugins
+package app.capacitorstarter.app.plugins
 
 import com.getcapacitor.JSObject
 import com.getcapacitor.Plugin
@@ -14,8 +14,8 @@ class CapacitorPluginExample : Plugin() {
         val value = call.getString("value")
         val ret = JSObject()
         ret.put("value", value)
-        ret.put("source", "hello android")
-        println("hello android")
+        ret.put("source", "hello from android!")
+        println("hello from android!")
         call.resolve(ret)
     }
 }
