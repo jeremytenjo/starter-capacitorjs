@@ -5,7 +5,7 @@ class CapacitorPluginExample extends WebPlugin {
   async echo(value) {
     return {
       value,
-      source: 'hello from web',
+      source: 'hello from the web',
     }
   }
 }

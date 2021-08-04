@@ -1,4 +1,3 @@
-
 package app.capacitorstarter.app.plugins
 
 import com.getcapacitor.JSObject
