@@ -12,6 +12,7 @@ class CapacitorPluginExample extends WebPlugin {
 }
 
 //android file android/app/src/main/java/app/capacitorstarter/app/plugins/CapacitorPluginExample.kt
+//ios ios/App/App/CapacitorPluginExample.swift
 export default registerPlugin('CapacitorPluginExample', {
   web: () => new CapacitorPluginExample(),
 })
