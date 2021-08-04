@@ -365,6 +365,7 @@ module.exports = {
   TopBar: 'readonly',
   ShellLayout: 'readonly',
   Capacitor: 'readonly',
+  capacitorPluginExample: 'readonly',
   auth: 'readonly',
   useGeolocation: 'readonly',
   ReactRouterChanger: 'readonly',

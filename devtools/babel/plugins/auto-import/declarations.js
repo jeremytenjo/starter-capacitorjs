@@ -986,6 +986,10 @@ module.exports = () => {
     { default: 'TopBar', path: 'lib/components/layouts/ShellLayout/TopBar/index.js' },
     { default: 'ShellLayout', path: 'lib/components/layouts/ShellLayout/index.js' },
     { default: 'Capacitor', path: 'lib/utils/Capacitor/index.js' },
+    {
+      default: 'capacitorPluginExample',
+      path: 'lib/utils/capacitorPluginExample/index.js',
+    },
     { default: 'auth', path: 'lib/utils/firebase/auth/index.js' },
     { default: 'useGeolocation', path: 'lib/utils/location/useGeolocation/index.js' },
     {
