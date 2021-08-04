@@ -78,6 +78,7 @@
 		504EC3061FED79650016851F /* App */ = {
 			isa = PBXGroup;
 			children = (
+				CFF3F4CE26BB061100CBF880 /* plugins */,
 				50379B222058CBB4000EE86E /* capacitor.config.json */,
 				504EC3071FED79650016851F /* AppDelegate.swift */,
 				504EC30B1FED79650016851F /* Main.storyboard */,
@@ -86,8 +87,6 @@
 				504EC3131FED79650016851F /* Info.plist */,
 				2FAD9762203C412B000D30F8 /* config.xml */,
 				50B271D01FEDC1A000F3C39B /* public */,
-				CF5F75ED26BAFC7E00A54B83 /* CapacitorPluginExample.swift */,
-				CF5F75F026BAFD2800A54B83 /* CapacitorPluginExample.m */,
 				CF5F75EF26BAFD2700A54B83 /* App-Bridging-Header.h */,
 			);
 			path = App;
@@ -100,6 +99,23 @@
 				AF51FD2D460BCFE21FA515B2 /* Pods-App.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		CFF3F4CE26BB061100CBF880 /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				CFF3F4CF26BB076500CBF880 /* CapacitorPluginExample */,
+			);
+			path = plugins;
+			sourceTree = "<group>";
+		};
+		CFF3F4CF26BB076500CBF880 /* CapacitorPluginExample */ = {
+			isa = PBXGroup;
+			children = (
+				CF5F75ED26BAFC7E00A54B83 /* CapacitorPluginExample.swift */,
+				CF5F75F026BAFD2800A54B83 /* CapacitorPluginExample.m */,
+			);
+			path = CapacitorPluginExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
