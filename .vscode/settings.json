@@ -7,5 +7,5 @@
   },
   "prettier.configPath": "./devtools/prettier/config.js",
   "wordIntellisense.baseDir": "src/lib",
-  "java.configuration.updateBuildConfiguration": "automatic"
+  "quickComponentCreator.prettierConfigFilePath": "devtools/prettier/config.js"
 }
